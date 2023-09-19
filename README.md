@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 + Living in Goiânia, Brazil 🇧🇷 
 - 26 years old 
-! NodeJS and React programmer and always studying some technology
+! FullStack Js programmer and always studying some technology
 # Interested in Java, Python and JavaScript
 ```
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=pedroperegrinaa&theme=neon-dark&hide_border=true&background=DD272700" /> -->
 </div>
 
-###  **My Article (PT-BR only):**
+###  **My Article:**
 [GPU Acceleration of Clustering Meta-feature Extraction using RAPIDS](https://sol.sbc.org.br/index.php/wperformance/article/view/24946)
 
 
