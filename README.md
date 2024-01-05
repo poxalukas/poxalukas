@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-<a href="https://github/poxalukas"><img alt="twitter" src="https://img.shields.io/github/followers/poxalukas?color=181717&logo=github&style=for-the-badge&label=github" /></a>
+<a href="https://www.github.com/poxalukas"><img alt="twitter" src="https://img.shields.io/github/followers/poxalukas?color=181717&logo=github&style=for-the-badge&label=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=pedroperegrinaa&style=for-the-badge&color=32325D"/>
 </div>
 
