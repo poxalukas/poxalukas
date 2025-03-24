@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <a target="_blank" href="https://www.linkedin.com/in/lacerdalukas">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
   </a>
-    <a target="_blank" href="https://github.com/poxalukas/curriculum/blob/main/curriculo_lucas_janeiro.pdf">
+    <a target="_blank" href="https://github.com/poxalukas/curriculum/blob/main/curriculo_lucas_lacerda_fev.pdf">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
   </a>
 </p>
